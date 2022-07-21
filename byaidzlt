@@ -2135,7 +2135,7 @@ local win = SomeLib:Window("", _G.Color, _G.Toggle)
 
 local serv = win:Server("AidzLT","")
 
-local AutoFarm = serv:Channel("LuongTruong22/10/2007", "http://www.roblox.com/asset/?id=7040391851")
+local AutoFarm = serv:Channel("Tổng Hợp Scrip Ngon", "http://www.roblox.com/asset/?id=7040391851")
 
 
 Time = AutoFarm:Label("Server Time")
