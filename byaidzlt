@@ -2174,7 +2174,7 @@ local btns = serv:Channel("HUB GAME","")
 btns:Button("Lazy Hub", function()
 repeat wait() until game:IsLoaded()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LioK251/RbScripts/main/lazyhub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AidzLT/projectslayer/main/aidzlt"))()
 SomeLib:Notification("Thông Báo", "Đã Execute", "Okay!")
 end)
 
